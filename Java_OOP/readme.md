@@ -11,6 +11,7 @@
 #### 代码实现 : 1 构造函数私有化 2内部产生该类的实例化 并将其封装成 private static 3静态方法返回该类的实例
 #### 4种实现单例的例子:
 	饿汉式 sington.Hungry 线程安全,特定情况下耗费内存
+	![](https://github.com/Qoiuy/Let-s-learn-Java/blob/master/Java_OOP/src/main/java/sington/BestFull.java)
 	饱汉式（简单） sington.SimpleFull 线程不安全,特定情况下节约内存
 	饱汉式（sync）sington.SyncFull 线程安全,节约内存,但是同步方法调用频繁时 效率低
 	饱汉式（best）sington.BestFull 线程安全,节约内存,多线程操作原子性
