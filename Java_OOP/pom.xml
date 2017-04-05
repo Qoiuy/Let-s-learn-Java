@@ -1,0 +1,10 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>Let-s-learn-Java</groupId>
+    <artifactId>Let-s-learn-Java</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>Java_OOP</artifactId>
+  <description>JavaOOP(面对对象编程) 主要包括封装 继承 多态 (知识点有 单例设计模式 final 抽象类 接口 异常)</description>
+</project>

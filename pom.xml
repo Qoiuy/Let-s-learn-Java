@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <description>将项目配置成maven项目 。</description>
   
+  <modules>
+  	<module>Java_OOP</module>
+  </modules>
 </project>
