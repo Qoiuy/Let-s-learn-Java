@@ -8,5 +8,6 @@
   
   <modules>
   	<module>Java_OOP</module>
+  	<module>Java_Thread</module>
   </modules>
 </project>
