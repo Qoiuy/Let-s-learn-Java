@@ -24,13 +24,13 @@
 ### 继承
 #### 好处:提高了代码的复用性。 让类和类之间产生了关系。
 #### 子类中所有的构造函数都会默认访问父类中空参构造函数。
-parent static
-****************
-child static
-parent 构造函数
-parent a =10
-child 构造函数
-child a = 20
+	parent static
+	****************
+	child static
+	parent 构造函数
+	parent a =10
+	child 构造函数
+	child a = 20
 ------
 
 ### final
