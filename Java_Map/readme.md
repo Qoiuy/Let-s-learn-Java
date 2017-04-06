@@ -1,6 +1,7 @@
 # Java Map 集合相关知识
 ### 集合关系图 
-</br>01.jpg
+</br>![](https://github.com/Qoiuy/Let-s-learn-Java/raw/master/Java_Map/01.jpg)
+
 
 ### Collection
 #### list->有序  set->无序,元素唯一
@@ -62,6 +63,8 @@
 	map.Entry me = (Map.Entry) it.next();
 	System.out.println(me.getKey()+"::::"+me.getValue());
 	}
+#### 使用增强for遍历set的两种方法	
+
 ------
 
 # 以下内容为复制粘贴 因为暂时我只是为了做面试题。后期会好好整的嘿嘿
