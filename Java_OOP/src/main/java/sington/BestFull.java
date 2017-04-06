@@ -1,5 +1,10 @@
 package sington;
 
+/**
+ * 他们说这个是完美的饱汉式
+ * @author iszhanggc@163.com
+ *
+ */
 public class BestFull {
 
 	//构造方法私有化
