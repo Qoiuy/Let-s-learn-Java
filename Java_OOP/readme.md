@@ -18,5 +18,6 @@
 ![实现代码](https://github.com/Qoiuy/Let-s-learn-Java/blob/master/Java_OOP/src/main/java/sington/SyncFull.java)
 </br>`饱汉式（best）sington.BestFull 线程安全,节约内存,多线程操作原子性`
 ![实现代码](https://github.com/Qoiuy/Let-s-learn-Java/blob/master/Java_OOP/src/main/java/sington/BestFull.java)
-#### Runable解读
+#### Runtime: 典型的单例模式 
+------
 
