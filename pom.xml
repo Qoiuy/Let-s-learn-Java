@@ -10,5 +10,6 @@
   	<module>Java_OOP</module>
   	<module>Java_Thread</module>
   	<module>Java_Map</module>
+  	<module>Java_IO</module>
   </modules>
 </project>
